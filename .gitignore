@@ -1,0 +1,13 @@
+/client/build
+/client/node_modules
+/client/firebase.json
+/client/.firebaserc
+/client/.firebase
+
+
+/server/.env
+/server/request.rest
+/server/node_modules
+/server/config/loadData.js
+/server/config/keywords.csv
+/server/.gitignore
